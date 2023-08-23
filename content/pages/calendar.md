@@ -131,7 +131,7 @@ Animals!
 
 *Podcast excerpt:*
 
-"[The Lion and the Rat](https://podcast.labyrinth.garden/1919755/9961975-the-lion-and-the-rat)." [The Labyrinth Project at UCLA](https://podcast.labyrinth.garden/1919755). January 27, 2022.
+"[The Lion and the Rat](https://podcast.labyrinth.garden/1919755/9961975-the-lion-and-the-rat)." The Labyrinth Project at UCLA. January 27, 2022.
 
 *Visitor:*
 
@@ -147,11 +147,11 @@ Synthetic Biology
 
 *Film excerpt:*
 
-[*Unnatural Selection, Season 1, Episode : Cut, Paste, Life*](https://www.imdb.com/title/tt11072598/?ref_=tt_eps_top)*.* Directed by Joe Egender and Leeor Kaufman. Color, 70 min. 2019.
+[*Unnatural Selection, Season 1, Episode 1: Cut, Paste, Life*](https://www.imdb.com/title/tt11072598/?ref_=tt_eps_top)*.* Directed by Joe Egender and Leeor Kaufman. Color, 70 min. 2019.
 
 *Visitor:*
 
-[Professor Sophia Roosth](https://gallatin.nyu.edu/people/faculty/sr9999.html), Gallatin School of Individualized Study, New York University.
+[Professor Sophia Roosth](https://gallatin.nyu.edu/people/faculty/shr7208.html), Gallatin School of Individualized Study, New York University.
 
 {{< tdclose >}}{{< tdopen >}}
  

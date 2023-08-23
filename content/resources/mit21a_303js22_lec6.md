@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 6: Biology for Sale'
-uid: 1e72944c-61eb-4c96-b0dd-ad3852b2d4f9
+uid: 6f166bd1-1365-4f04-b8d5-bbdbd8ccad7b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

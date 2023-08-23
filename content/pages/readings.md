@@ -99,7 +99,7 @@ Yuill, Cassandra. "[Reproductive Rights in the Time of Covid-19](http://somatosp
 Biology for Sale
 {{< tdclose >}}{{< tdopen >}}
 
-Ritvo, Harriet. "Possessing Mother Nature: Genetic Capital in Eighteenth-century Britain." Chapter 20 in *Early Modern Conceptions of Property*. Edited by John Brewer and Susan Staves. Routledge, 1996. ISBN: ‎9780415153140.
+Ritvo, Harriet. "Possessing Mother Nature: Genetic Capital in Eighteenth-Century Britain." Chapter 20 in *Early Modern Conceptions of Property*. Edited by John Brewer and Susan Staves. Routledge, 1996. ISBN: ‎9780415153140.
 
 Landecker, Hannah. "[Between Beneficence and Chattel: The Human Biological in](https://www.cambridge.org/core/journals/science-in-context/article/between-beneficence-and-chattel-the-human-biological-in-law-and-science/24E4552502C2BB7CD94AC0CDD040D653#) [Law and Science](https://www.cambridge.org/core/journals/science-in-context/article/between-beneficence-and-chattel-the-human-biological-in-law-and-science/24E4552502C2BB7CD94AC0CDD040D653#)." *Science in Context* 12, no. 1 (1999): 203–25.
 
@@ -147,8 +147,7 @@ Ritvo, Harriet. "[Race, Breed, and Myths of Origin: Chillingham Cattle as Ancien
 
 Haraway, Donna J. "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936." Chapter 3 in *Primate Visions: Gender, Race, and Nature in the World of Modern Societies*. Routledge, 1990. ISBN: ‎9780415902946. \[Preview with [Google Books](https://www.google.com/books/edition/Primate_Visions/G1_Q3h5hPP0C?hl=en&gbpv=1)\]
 
-Mansfield, Barbara. ["From Catfish to Organic Fish: Making Distinctions about](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf)        
-[Nature as Cultural Economic Practice." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf) *Geoforum* 34, no. 3 (2003): 329–42.
+Mansfield, Barbara. "[From Catfish to Organic Fish: Making Distinctions about Nature as Cultural Economic Practice](https://www.academia.edu/13892400/From_catfish_to_organic_fish_making_distinctions_about_nature_as_cultural_economic_practice)." *Geoforum* 34, no. 3 (2003): 329–42.
 
 Wanderer, Emily Mannix. "[Biologies of Betrayal: Judas Goats and Sacrificial Mice on the Margins of Mexico](https://www.researchgate.net/publication/273481250_Biologies_of_betrayal_Judas_goats_and_sacrificial_mice_on_the_margins_of_Mexico)." *BioSocieties* 10, no. 1 (2015): 1–23.
 

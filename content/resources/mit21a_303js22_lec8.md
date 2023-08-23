@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 8: Remixing Organisms'
-uid: fdd56660-644e-4042-aa4d-c53311a65cd4
+uid: 6ff45b37-c727-46e1-b613-3f7eb20b4e09
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
