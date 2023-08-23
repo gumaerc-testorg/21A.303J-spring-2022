@@ -13,7 +13,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 3: Evolutionary Narratives, Epidemiological
   Dramaturgy'
-uid: 0f9cd157-aeba-41fc-b258-b6ae129669ee
+uid: 84ae5ed7-c3a5-4886-980a-07c479db0dd0
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

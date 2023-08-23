@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 5: Biopolitics and Reproduction'
-uid: 9f6a1464-4621-47b7-b113-43f3340412c5
+uid: 97bfc36b-b5c8-4fce-903f-8ca1baa8900d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
