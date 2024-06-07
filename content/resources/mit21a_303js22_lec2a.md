@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21a-303j-the-anthropology-of-biology-spring-2022/mit21a_303js22_lec2a.pdf
+file_size: 5249140
 file_type: application/pdf
 image_metadata:
   caption: ''

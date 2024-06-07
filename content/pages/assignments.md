@@ -13,15 +13,15 @@ Each paper represents 25% of the subject grade.
 
 We have examined how understandings of life, evolution, and epidemics are often structured by the metaphors and narratives through which scientists and their publics apprehend them (see {{% resource_link "e8286978-cd8b-4dd3-aa3d-7f55a7a3cb6d" "readings" %}} by Keller, Kay, Beer, Fedigan, Rosenberg, Wailoo). Such metaphors and narratives may create portraits of the relation of science to society that are, variously, useful and revealing, or, at times, obfuscatory or damaging. For this paper, work with two of the following readings:
 
-Reilly, Philip R. "{{% resource_link "b80d6247-fea1-43fd-a7f7-01906be61a8a" "Eugenics and Involuntary Sterilization: 1907–2015" %}}." *Annual Review of Genomics and Human Genetics* 16 (2015): 351–68.
+Reilly, Philip R. "[Eugenics and Involuntary Sterilization: 1907–2015](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-090314-024930)." *Annual Review of Genomics and Human Genetics* 16 (2015): 351–68.
 
-TallBear, Kim. "{{% resource_link "ebee329f-90bd-4fd4-828f-11642c9315f2" "Genomic Articulations of Indigeneity" %}}." *Social Studies of Science* 43, no. 4 (2013): 509–33.
+TallBear, Kim. "[Genomic Articulations of Indigeneity](https://www.jstor.org/stable/43284191#metadata_info_tab_contents)." *Social Studies of Science* 43, no. 4 (2013): 509–33.
 
-Nelson, Alondra. "{{% resource_link "7a9db1a3-cd2e-4b46-a2e5-2364cff9bdac" "Bio Science: Genetic Genealogy Testing and the Pursuit of African Ancestry" %}}." *Social Studies of Science* 38, no. 5 (2008): 759–83.
+Nelson, Alondra. "[Bio Science: Genetic Genealogy Testing and the Pursuit of African Ancestry](https://www.jstor.org/stable/25474607#metadata_info_tab_contents)." *Social Studies of Science* 38, no. 5 (2008): 759–83.
 
-Kahn, Jonathan. {{% resource_link "11e560ee-cafa-4a87-b394-06b008f813da" "\"Patenting Race.\" (PDF)" %}} *Nature Biotechnology* 24, no. 11 (2006): 1349–51.
+Kahn, Jonathan. ["Patenting Race." (PDF)](https://unnaturalcauses.org/assets/uploads/file/kahn-patenting_race.pdf) *Nature Biotechnology* 24, no. 11 (2006): 1349–51.
 
-Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with {{% resource_link "52d76352-a530-46ed-b4af-c9a08fd3a55c" "Google Books" %}}\]
+Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with [Google Books](https://www.google.com/books/edition/Sounding_the_Limits_of_Life/8GuYDwAAQBAJ?hl=en&gbpv=1)\]
 
 Examine how the people about whom the authors write structure their engagements with (as relevant) eugenics, genealogy, or microbiomics, often using narrative strategies; turn to materials for sessions 2 and 3 to help you think about how storytelling shapes how people understand biological (evolutionary, organismic) processes.
 
@@ -37,14 +37,14 @@ This paper is due during session 9.
 
 *Option 1*
 
-For this paper, choose your own topic connected to the cultural, political, religious, and/or economic dimensions of biological science. To do so, look at the pages of the journal {{% resource_link "3481c426-17c3-4358-9aad-18ae0ab854a4" "*BioSocieties*" %}}, and find an article on a topic of interest to you. The journal has featured investigations on a range of topics — e.g., biobanking, pharmaceutical markets, forensics, reproductive technologies, cancer medicine, biosecurity, gene editing, epigenetics, neuroscience, model organisms, metabolic conditions, biological databases, patient activism. So there’s a lot to choose from! Once you have found an article, look around in the journal for another article (many topics have generated a number of pieces!) and use the two or three articles you have as your research basis. Having settled on your topic, you must also engage with readings from this class relevant to your topic. What has this class taught you about how to think about this instance of biology in society? What is your topic an example of?
+For this paper, choose your own topic connected to the cultural, political, religious, and/or economic dimensions of biological science. To do so, look at the pages of the journal [*BioSocieties*](https://www.palgrave.com/us/journal/41292), and find an article on a topic of interest to you. The journal has featured investigations on a range of topics — e.g., biobanking, pharmaceutical markets, forensics, reproductive technologies, cancer medicine, biosecurity, gene editing, epigenetics, neuroscience, model organisms, metabolic conditions, biological databases, patient activism. So there’s a lot to choose from! Once you have found an article, look around in the journal for another article (many topics have generated a number of pieces!) and use the two or three articles you have as your research basis. Having settled on your topic, you must also engage with readings from this class relevant to your topic. What has this class taught you about how to think about this instance of biology in society? What is your topic an example of?
 
 *Option 2*
 
 Read:
 
-Jones, David S, and Stefan Helmreich. "{{% resource_link "5ed8d87b-c42d-471d-a75b-fc401c41c35f" "The Shape of Epidemics" %}}." *Boston Review*, June 26, 2020.
+Jones, David S, and Stefan Helmreich. "[The Shape of Epidemics](https://www.bostonreview.net/articles/david-shumway-jones-stefan-helmreich-epidemic-waves/)." *Boston Review*, June 26, 2020.
 
-And then read through journalist Ed Yong’s {{% resource_link "d02badfb-23e9-4dbf-a126-729186aadb4f" "coverage" %}} of the Covid-19 pandemic. Or through journalist Zeynep Tufekci’s coverage and {{% resource_link "560d01f7-e068-4f07-9af8-a9cca7c33487" "opinion" %}} on the pandemic and narrate their accounts of pandemic in your own words whilst deploying analytics and comparative examples from our class readings and lectures.
+And then read through journalist Ed Yong’s [coverage](https://www.theatlantic.com/author/ed-yong/) of the Covid-19 pandemic. Or through journalist Zeynep Tufekci’s coverage and [opinion](https://www.nytimes.com/column/zeynep-tufekci) on the pandemic and narrate their accounts of pandemic in your own words whilst deploying analytics and comparative examples from our class readings and lectures.
 
 This paper is due during session 12. Also, be prepared to give a short (5–7 minute presentation) on your paper. These presentations will take place during sessions 12 and 13.
