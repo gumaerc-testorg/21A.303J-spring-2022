@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21a-303j-the-anthropology-of-biology-spring-2022/mit21a_303js22_lec5.pdf
+file: courses/the-anthropology-of-biology/mit21a_303js22_lec5.pdf
 file_size: 3588736
 file_type: application/pdf
 image_metadata:
