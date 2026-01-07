@@ -20,11 +20,11 @@ If the twentieth century was the century of physics, the twenty-first has become
 
 #### Required Books
 
-Pollock, Anne. *Sickening: Anti-Black Racism and Health Disparities in the United States*. University of Minnesota Press, 2021. ISBN: ‎9781517911720. \[Preview with {{% resource_link "faaa31c5-779f-4542-bb36-45a9862a54d3" "Google Books" %}}\]
+Pollock, Anne. *Sickening: Anti-Black Racism and Health Disparities in the United States*. University of Minnesota Press, 2021. ISBN: ‎9781517911720. \[Preview with [Google Books](https://www.google.com/books/edition/Sickening/HzU4EAAAQBAJ?hl=en&gbpv=1)\]
 
-Kirksey, Eben. *The Mutant Project: Inside the Global Race to Genetically Modify Humans*. St. Martin's Press, 2020. ISBN: ‎9781250265357. \[Preview with {{% resource_link "c6647b17-373c-4a9d-a758-ac0701902f3b" "Google Books" %}}\]
+Kirksey, Eben. *The Mutant Project: Inside the Global Race to Genetically Modify Humans*. St. Martin's Press, 2020. ISBN: ‎9781250265357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mutant_Project/RS_QDwAAQBAJ?hl=en&gbpv=1)\]
 
-Roosth, Sophia. *Synthetic: How Life Got Made*. University of Chicago Press, 2017. ISBN: ‎9780226440460. \[Preview with {{% resource_link "20b68f0a-2a01-41d5-9752-5c3dad465186" "Google Books" %}}\]
+Roosth, Sophia. *Synthetic: How Life Got Made*. University of Chicago Press, 2017. ISBN: ‎9780226440460. \[Preview with [Google Books](https://www.google.com/books/edition/Synthetic/4ZUtDwAAQBAJ?hl=en&gbpv=1)\]
 
 Additional required readings can be found in the {{% resource_link "e8286978-cd8b-4dd3-aa3d-7f55a7a3cb6d" "Readings" %}} section.
 
@@ -60,4 +60,4 @@ For details on the class activities, see the {{% resource_link "41facb43-ca95-48
 
 #### Academic Integrity
 
-Students are expected to adhere to MIT’s guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the {{% resource_link "5a3bd040-1151-484b-b7d0-ff5d7ff63d4d" "Office of Student Citizenship" %}} or {{% resource_link "49bf84c5-d8fe-4a30-b9f4-023340f2539e" "Committee on Discipline" %}}. If you have questions about what qualifies as plagiarism check out: {{% resource_link "2f5c08e1-36e4-4242-8616-042bd3df1731" "Academic Integrity at MIT: A Handbook for Students" %}}.
+Students are expected to adhere to MIT’s guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the [Office of Student Citizenship](http://mit.edu/discipline/transfered%20to%20citizenship/) or [Committee on Discipline](http://cod.mit.edu/). If you have questions about what qualifies as plagiarism check out: [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
